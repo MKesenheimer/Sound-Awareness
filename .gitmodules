@@ -1,0 +1,9 @@
+[submodule "GameLibrary"]
+	path = GameLibrary
+	url = git@github.com:MKesenheimer/GameLibrary.git
+[submodule "SDLTools"]
+	path = SDLTools
+	url = git@github.com:MKesenheimer/SDLTools.git
+[submodule "libs/googletest"]
+	path = libs/googletest
+	url = https://github.com/google/googletest.git
