@@ -1,0 +1,7 @@
+.DS_Store
+sound-awareness
+gtest
+build
+.vscode
+*.so
+*.dylib
