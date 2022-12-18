@@ -2,6 +2,7 @@
 sound-awareness
 gtest
 build
+tests/SDL_Audio
 .vscode
 *.so
 *.dylib
